@@ -1,0 +1,10 @@
+Ani,80
+Budi,70
+Citra,90
+Dina,85
+Eko,60
+Fani,75
+Gita,95
+Hani,65
+Indra,88
+Joko,50

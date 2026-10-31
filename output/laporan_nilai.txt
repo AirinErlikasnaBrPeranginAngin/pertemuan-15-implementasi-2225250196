@@ -1,0 +1,21 @@
+===== LAPORAN NILAI MATEMATIKA =====
+
+Daftar Nilai Siswa:
+Ani : 80.0
+Budi : 70.0
+Citra : 90.0
+Dina : 85.0
+Eko : 60.0
+Fani : 75.0
+Gita : 95.0
+Hani : 65.0
+Indra : 88.0
+Joko : 50.0
+
+Hasil Analisis:
+Rata-rata nilai        : 75.80
+Nilai tertinggi        : 95.0
+Nilai terendah         : 50.0
+Jumlah siswa lulus     : 6
+Jumlah siswa tidak lulus: 4
+====================================
