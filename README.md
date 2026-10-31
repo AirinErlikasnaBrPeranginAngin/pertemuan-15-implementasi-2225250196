@@ -108,5 +108,4 @@ Proyek telah melalui tahap implementasi, integrasi, pengujian, dan debugging ses
 - Pertemuan: 15
 
 12. Repository GitHub
-
-URL repository: Akan ditambahkan setelah repository GitHub khusus Pertemuan 15 dibuat.
+(https://github.com/AirinErlikasnaBrPeranginAngin/pertemuan-15-implementasi-2225250196.git)
